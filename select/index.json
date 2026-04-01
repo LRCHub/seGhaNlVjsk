@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "スーパーレア",
+  "base_artist": "Watson",
+  "createdAt": "2026-04-01T12:27:26.600751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スーパーレア",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/01_スーパーレア_P丸様。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スーパーレア (feat. 仙人掌 & Daichi Yamamoto)",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_スーパーレア_(feat._仙人掌_&_Daichi_Yamamoto)_Watson.txt"
+    }
+  ]
+}
